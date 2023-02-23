@@ -8,15 +8,12 @@ Cristão, Gosto de fultebol,  encontrar com meus amigos e gosto muito de novos d
 
 ```kotlin
 objeto  ** RAFAEL APOLINÁRIO ** {
- val formação =  " ENGENHEIRO MECÂNICO " ," estudante FULL STACK "
+ val formação =  " ENGENHEIRO MECÂNICO " ," Gestão de projetos "," estudante de Engenharia de software"," estudante FULL STACK "
  
- val Experiências profissionais =  " Técnico de Laboratório Metalurgico " , 
- " Técnico de Laboratório Metrologico " , " Técnico Operacional " .
+ val Experiências profissionais =  " Estagiario Fullstack " , 
+ " Supervisor de produção " .
  
- val language =  Linguagem de Programação favorita ( " Java " , " HTML " , 
- " JavaScript " , " React " )
- 
- val language =  Linguagem em formação ( " Java " , " HTML " , " CSS " )
+ val language =  Linguagem em formação ( " JavaScript ", "React", "PHP", " HTML " , " CSS " ,)
 }
 ```
 
