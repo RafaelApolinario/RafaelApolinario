@@ -15,7 +15,7 @@ objeto  ** RAFAEL APOLINÁRIO ** {
  " Supervisor de produção " .
  
  val language =  Linguagem em formação ( " JavaScript ", "React", 
- "PHP", " HTML " , " CSS " ,)
+ "PHP", "TypeScript", SQL ,)
 }
 ```
 
